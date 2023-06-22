@@ -1,0 +1,25 @@
+{
+  "name": "mod-10-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chazmoore/Mod-10-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chazmoore/Mod-10-logo-maker/issues"
+  },
+  "homepage": "https://github.com/Chazmoore/Mod-10-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "jest": "^29.5.0",
+    "svg-captcha": "^1.4.0"
+  }
+}
